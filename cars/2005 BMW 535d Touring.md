@@ -18,17 +18,24 @@ We wanted something comfortable and with space so we could do more road trips wi
 * Automatic Climate Control
 * Automatic Gearbox
 * Cruise Control
+* ~~Adaptive Headlights~~ (does not currently work)
 
 ## Issues
 
-- **27/01/2015** - Adaptive headlights do not function
-- **27/01/2015** - Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
-- **27/01/2015** - Glow plug in cylinder 4 is not working
+| Date       | Issue
+|:----------:|---------------------
+| 28/01/2015 | Adaptive headlights do not function
+| 27/01/2015 | Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
+| 27/01/2015 | Glow plug in cylinder 4 is not working
 
-## Changes/Resolved Issues
+## Resolved Issues
 
-- **28/01/2015** - Left dipped beam stopped working (Replacement light module, €120)
+| Date       | Change                     | Cost
+|:----------:|----------------------------|-------
+| 28/01/2015 | Left dipped beam stopped working. Fixed by replacing Xenon ballast. | €120
 
-		Fixed by replacing the Xenon ballast.
-		
-- **30/01/2015** - OEM iPod Interface (€120)
+## Changes
+
+| Date       | Change                     | Cost
+|:----------:|----------------------------|-------
+| 30/01/2015 | OEM iPod Interface | €120
