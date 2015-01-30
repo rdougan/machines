@@ -25,8 +25,10 @@ We wanted something comfortable and with space so we could do more road trips wi
 - **27/01/2015** - Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
 - **27/01/2015** - Glow plug in cylinder 4 is not working
 
-## Resolved Issues
+## Changes/Resolved Issues
 
-- **28/01/2015** - Left dipped beam stopped working
+- **28/01/2015** - Left dipped beam stopped working (Replacement light module, €120)
 
 		Fixed by replacing the Xenon ballast.
+		
+- **30/01/2015** - OEM iPod Interface (€120)
