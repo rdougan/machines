@@ -26,13 +26,14 @@ We wanted something comfortable and with space so we could do more road trips wi
 |:----------:|---------------------
 | 28/01/2015 | Adaptive headlights do not function
 | 27/01/2015 | Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
-| 27/01/2015 | Glow plug in cylinder 4 is not working
 
 ## Resolved Issues
 
-| Date       | Change                     | Cost
-|:----------:|----------------------------|-------
-| 28/01/2015 | Left dipped beam stopped working. Fixed by replacing Xenon ballast. | €120
+| Date       | Issue | Change | Cost
+|:----------:|----------------------------|-------|-----
+| 03/02/2015 | Swirl flaps leaking oil | Replaced with blanking plates. Replaced all intake gaskets. Cleaned the intake | €92
+| 03/02/2015 | Glow plug in cylinder 4 is not working | Replaced the glow plug | €120
+| 28/01/2015 | Left dipped beam stopped working | Replaced the Xenon ballast | €120
 
 ## Changes
 
