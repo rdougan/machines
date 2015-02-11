@@ -18,19 +18,19 @@ We wanted something comfortable and with space so we could do more road trips wi
 * Automatic Climate Control
 * Automatic Gearbox
 * Cruise Control
-* ~~Adaptive Headlights~~ (does not currently work)
+* Adaptive Headlights
 
 ## Issues
 
 | Date       | Issue
 |:----------:|---------------------
-| 28/01/2015 | Adaptive headlights do not function
 | 27/01/2015 | Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
 
 ## Resolved Issues
 
 | Date       | Issue | Change | Cost
 |:----------:|----------------------------|-------|-----
+| 11/02/2015 | Adaptive headlights do not function | Replaced the ACL module, behind the glove box | €70
 | 03/02/2015 | Swirl flaps leaking oil | Replaced with blanking plates. Replaced all intake gaskets. Cleaned the intake | €92
 | 03/02/2015 | Glow plug in cylinder 4 is not working | Replaced the glow plug | €120
 | 28/01/2015 | Left dipped beam stopped working | Replaced the Xenon ballast | €120
@@ -39,4 +39,5 @@ We wanted something comfortable and with space so we could do more road trips wi
 
 | Date       | Change                     | Cost
 |:----------:|----------------------------|-------
+| 03/02/2015 | AUX cable | €20
 | 30/01/2015 | OEM iPod Interface | €120
