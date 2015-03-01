@@ -24,6 +24,7 @@ We wanted something comfortable and with space so we could do more road trips wi
 
 | Date       | Issue
 |:----------:|---------------------
+| 01/03/2015 | Radio audio intermittently stops. iDrive UI is slow abd bluetooth no longer works. Disabling MULF (bluetooth) unit temporarily fixes the issues.
 | 27/01/2015 | Panaromic sunroof works unless you open it fully, then it doesn't close properly without hassle.
 
 ## Resolved Issues
